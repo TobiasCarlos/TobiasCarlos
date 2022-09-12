@@ -1,6 +1,6 @@
 ### Sou Tobias e estudo na IFSULDEMINAS Campus Passos - Minas Gerais
 - 🔭 Hoje trabalho com back-end, front-end, mobile.
-- 🌱 Estudando react com Typescript
+- 🌱 Estudando ReactJS com Typescript
 
 <div align="center">
   <a href="https://github.com/tobiascarlos">

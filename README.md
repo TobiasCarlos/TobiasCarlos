@@ -2,11 +2,6 @@
 - 🔭 Hoje trabalho com back-end, front-end, mobile.
 - 🌱 Estudando ReactJS com Typescript
 
-```diff
-- VERMELHO
-+ VERDE
-```
-
 <div align="center">
   <a href="https://github.com/tobiascarlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tobiascarlos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
